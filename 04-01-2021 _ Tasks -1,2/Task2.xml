@@ -3,11 +3,11 @@
 <students_info>
 	<student stid="a">
 		<regno>190030286</regno>
-		<name>Mohan Vamsi</name>
+		<name>Vamsi</name>
 		<avg>98</avg>
 		<dob>20-08-2001</dob>
 		<time />
-		<mobile>7702437999</mobile>
+		<mobile>9999999999</mobile>
 		<distinction>YES</distinction>
 	</student>
 	<student stid="b">
@@ -16,7 +16,7 @@
 		<avg>95</avg>
 		<dob>31-12-2002</dob>
 		<time />
-		<mobile>7702437999</mobile>
+		<mobile>9999999999</mobile>
 		<distinction>YES</distinction>
 	</student>
 	<student stid="c">
@@ -25,7 +25,7 @@
 		<avg>96</avg>
 		<dob>15-07-2001</dob>
 		<time />
-		<mobile>7702437999</mobile>
+		<mobile>9999999999</mobile>
 		<distinction>YES</distinction>
 	</student>
 	<student stid="d">
@@ -34,7 +34,7 @@
 		<avg>90</avg>
 		<dob>31-12-2002</dob>
 		<time />
-		<mobile>7702437999</mobile>
+		<mobile>9999999999</mobile>
 		<distinction>YES</distinction>
 	</student>
 	<student stid="e">
@@ -43,7 +43,7 @@
 		<avg>90</avg>
 		<dob>31-12-2002</dob>
 		<time />
-		<mobile>7702437999</mobile>
+		<mobile>9999999999</mobile>
 		<distinction>YES</distinction>
 	</student>
 </students_info>
