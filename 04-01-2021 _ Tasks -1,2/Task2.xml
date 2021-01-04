@@ -3,7 +3,7 @@
 <students_info>
 	<student stid="a">
 		<regno>190030286</regno>
-		<name>Vamsi</name>
+		<name>Mohan</name>
 		<avg>98</avg>
 		<dob>20-08-2001</dob>
 		<time />
@@ -12,16 +12,16 @@
 	</student>
 	<student stid="b">
 		<regno>190030430</regno>
-		<name>Rakesh</name>
+		<name>Ram</name>
 		<avg>95</avg>
-		<dob>31-12-2002</dob>
+		<dob>31-12-2001</dob>
 		<time />
 		<mobile>9999999999</mobile>
 		<distinction>YES</distinction>
 	</student>
 	<student stid="c">
 		<regno>190030429</regno>
-		<name>Prabhakar</name>
+		<name>Shiva</name>
 		<avg>96</avg>
 		<dob>15-07-2001</dob>
 		<time />
@@ -30,7 +30,7 @@
 	</student>
 	<student stid="d">
 		<regno>190031152</regno>
-		<name>Satish</name>
+		<name>Reddy</name>
 		<avg>90</avg>
 		<dob>31-12-2002</dob>
 		<time />
@@ -41,7 +41,7 @@
 		<regno>190031153</regno>
 		<name>Akhil</name>
 		<avg>90</avg>
-		<dob>31-12-2002</dob>
+		<dob>3-12-2000</dob>
 		<time />
 		<mobile>9999999999</mobile>
 		<distinction>YES</distinction>
