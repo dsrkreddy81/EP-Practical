@@ -2,13 +2,13 @@
 <!DOCTYPE students SYSTEM "studentvalidation.dtd">
 <students>
 	<student sid="a">
-		<name>Mohan vamsi</name>
+		<name>Mohan</name>
 		<id>190030286</id>
 		<branch>CSE</branch>
-		<cgpa>9</cgpa>
+		<cgpa>10</cgpa>
 	</student>
 	<student sid="b">
-		<name>Rakesh</name>
+		<name>Ram</name>
 		<id>190030430</id>
 		<branch>CSE</branch>
 		<cgpa>9</cgpa>
@@ -20,15 +20,15 @@
 		<cgpa>8</cgpa>
 	</student>
 	<student sid="d">
-		<name>Satish Reddy</name>
+		<name>Reddy</name>
 		<id>190031152</id>
 		<branch>CSE</branch>
-		<cgpa>8</cgpa>
+		<cgpa>9</cgpa>
 	</student>
 	<student sid="e">
-		<name>Shiva Prabhakar</name>
+		<name>Shiva</name>
 		<id>190030429</id>
-		<branch>ECE</branch>
+		<branch>CSE</branch>
 		<cgpa>9</cgpa>
 	</student>
 </students>
