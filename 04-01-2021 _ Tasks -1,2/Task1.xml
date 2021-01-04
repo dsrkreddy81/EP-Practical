@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE students SYSTEM "studentvalidation.dtd">
+<students>
+	<student sid="a">
+		<name>Mohan vamsi</name>
+		<id>190030286</id>
+		<branch>CSE</branch>
+		<cgpa>9</cgpa>
+	</student>
+	<student sid="b">
+		<name>Rakesh</name>
+		<id>190030430</id>
+		<branch>CSE</branch>
+		<cgpa>9</cgpa>
+	</student>
+	<student sid="c">
+		<name>Akhil</name>
+		<id>190031153</id>
+		<branch>CSE</branch>
+		<cgpa>8</cgpa>
+	</student>
+	<student sid="d">
+		<name>Satish Reddy</name>
+		<id>190031152</id>
+		<branch>CSE</branch>
+		<cgpa>8</cgpa>
+	</student>
+	<student sid="e">
+		<name>Shiva Prabhakar</name>
+		<id>190030429</id>
+		<branch>ECE</branch>
+		<cgpa>9</cgpa>
+	</student>
+</students>
